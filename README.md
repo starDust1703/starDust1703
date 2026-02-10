@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,js,python" />
 
 ### 🎨 Frontend
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,tailwind" />
 
 ### ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
@@ -53,14 +53,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-<p>
-<span style="color:#00ffff;">Frontend:</span> HTML • CSS • JavaScript • React • Next.js  
-<span style="color:#00ffff;">Backend:</span> Supabase • Node.js  
-<span style="color:#00ffff;">Tools:</span> Git • GitHub • Expo • Figma
-
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,figma" />
 
 ---
 
