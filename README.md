@@ -32,14 +32,33 @@
 
 ---
 
-## <span style="color:#39ff14; text-shadow:0 0 8px #39ff14;">Tech Stack</span>
+<h2 style="
+  color:#00ffff;
+  text-shadow:0 0 6px #00ffff, 0 0 18px rgba(0,255,255,0.6);
+">
+  ⚡ Tech Stack
+</h2>
+
+
+### 🧠 Languages
+  <img src="https://skillicons.dev/icons?i=cpp,js,python" />
+
+### 🎨 Frontend
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,redux,tailwind,figma" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase" />
+
+### ☁️ Cloud & Databases
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" />
+
+### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 <p>
-
 <span style="color:#00ffff;">Frontend:</span> HTML • CSS • JavaScript • React • Next.js  
 <span style="color:#00ffff;">Backend:</span> Supabase • Node.js  
-<span style="color:#00ffff;">Tools:</span> Git • GitHub • Expo • Figma  
-<span style="color:#00ffff;">Other:</span> UI/UX • Product Thinking • System Design (learning)
+<span style="color:#00ffff;">Tools:</span> Git • GitHub • Expo • Figma
 
 </p>
 
@@ -91,7 +110,7 @@ Smart real-time queue management app with QR join, live updates, and admin contr
   <img src="https://img.shields.io/badge/LinkedIn-0ff?style=for-the-badge&logo=linkedin&logoColor=black">
 </a>
 
-<a href="mailto:hriddhiman2008@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=hriddhiman2008@gmail.com&tf=cm">
   <img src="https://img.shields.io/badge/Email-0ff?style=for-the-badge&logo=gmail&logoColor=black">
 </a>
 
