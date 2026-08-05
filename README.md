@@ -26,7 +26,7 @@
 
 - 🎓 CS Student who actually builds stuff  
 - 🚀 Obsessed with **Astronomy, Space & Big Ideas**  
-- 💻 Creating real-world apps (not tutorial clones… hopefully)  
+- 💻 Creating real-world apps
 - 🎯 Goal: Financial Independence + Strong Tech Career  
 - ⚡ Works best at night like a suspicious algorithm  
 
