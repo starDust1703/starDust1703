@@ -76,8 +76,7 @@ Smart real-time queue management app with QR join, live updates, and admin contr
 ## <span style="color:#00ffff; text-shadow:0 0 8px #00ffff;">GitHub Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=starDust1703&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://streak-stats.demolab.com?user=starDust1703&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=starDust1703&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
