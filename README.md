@@ -77,6 +77,7 @@ Smart real-time queue management app with QR join, live updates, and admin contr
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=starDust1703&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=starDust1703&show_icons=true&theme=transparent"/>
 </p>
 
 ---
