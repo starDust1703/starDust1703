@@ -99,7 +99,7 @@ Smart real-time queue management app with QR join, live updates, and admin contr
   <img src="https://img.shields.io/badge/GitHub-0ff?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
-<a href="https://linkedin.com/in/hriddhimand">
+<a href="https://linkedin.com/in/hriddhiman">
   <img src="https://img.shields.io/badge/LinkedIn-0ff?style=for-the-badge&logo=linkedin&logoColor=black">
 </a>
 
